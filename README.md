@@ -23,8 +23,8 @@ Useful to know:
 
 ## Assignments
 
-**Assignment 1**: create a webapp without writing code. Let the AI do the work!
-**Assignment 2**: let OpenAI's GPT-3.5 analyse the code and generate a summary
+- **Assignment 1**: create a webapp without writing code. Let the AI do the work!
+- **Assignment 2**: let OpenAI's GPT-3.5 analyse the code and generate a summary
 
 See more information about the assignments in the [assignment document](assignments/assignments.pdf).
 
