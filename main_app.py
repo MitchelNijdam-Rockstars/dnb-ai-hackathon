@@ -4,6 +4,7 @@ from bb_collect_data import step2_collect_financial_data
 from cc_calculate_health import step3_show_financial_health
 from dd_advice import step4_show_character_advice
 from ee_results import step5_display_results
+from ff_code_quality_report import assignment2_code_quality_report
 
 # Welcome to the Movie Character Financial Advisor app!
 
@@ -24,7 +25,8 @@ def main():
         2: step2_collect_financial_data,
         3: step3_show_financial_health,
         4: step4_show_character_advice,
-        5: step5_display_results
+        5: step5_display_results,
+        6: assignment2_code_quality_report
     }
 
     col1, col2, col3 = st.columns(3)
