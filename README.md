@@ -24,18 +24,17 @@ Useful to know:
 ## Assignments
 
 - **Assignment 1**: create a webapp without writing code. Let the AI do the work!
-- **Assignment 2**: let OpenAI's GPT-3.5 analyse the code and generate a summary
+- **Assignment 2**: let an LLM analyse the code and generate a report
 
-See more information about the assignments in the [assignment document](assignments/assignments.pdf).
-
-Ask for OpenAI API key from the organizers. Don't commit the key to GitHub.
+See more information about the assignments in the [assignment document](README_assignments.pdf).
 
 ### Resources
 - [Streamlit documentation](https://docs.streamlit.io/)
+- [Groq Cloud Console](https://console.groq.com/)
 - [OpenAI API documentation](https://platform.openai.com/docs/api-reference/chat)
 - [Your GitHub codespaces](https://github.com/codespaces)
 
-## Run Locally (not in codespace)
+## Run Locally (not in a codespace)
 
 ### Prerequisites
 - Python 3.6+
