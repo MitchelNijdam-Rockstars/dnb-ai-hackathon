@@ -55,6 +55,8 @@ source myenv/bin/activate #For linux/mac
 pip install -r requirements.txt
 
 # 4. Run the app
-streamlit run main.py
+streamlit run main_app.py
+
+# 5. Open the browser and go to http://localhost:8501
 ```
 
